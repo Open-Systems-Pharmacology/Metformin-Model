@@ -7,7 +7,7 @@ Within this repository, we share a whole-body PBPK model of metformin that has b
 The PK-Sim project file contains simulation examples and the observed data of all clinical studies used for model development and evaluation. For further details, quantitative model evaluation, sensitivity analysis and extensive documentation please refer to [[1](#reference)].
 
 ### Version information
-PK-Sim Version 8.0.
+PK-Sim Version 11.
 
 ### License
 The model is distributed under the [GPLv2 License](https://github.com/Open-Systems-Pharmacology/Suite/blob/develop/LICENSE). 
