@@ -16,7 +16,7 @@ An important parameter influencing the resulting volume of distribution is lipop
 
 After testing the available organ-plasma partition coefficient and cell permeability calculation methods built in PK-Sim®, observed clinical data was best described by choosing the partition coefficient calculation by `PK-SIM Standard` and cellular permeability calculation by `PK-SIM Standard`.
 
-The permeability coefficients for liver, kidney and brain (i.e., (`(P (intracellular -> interstitial) liver periportal`, `(P (intracellular -> interstitial) liver pericentral` and (`(P (intracellular -> interstitial) kidney`) were optimized to avoid accumulation of drug in tissue and to capture observed PK profiles [Section 2.3.4](#model-parameters-and-assumptions-identification). 
+The liver, kidney and brain permeabilities (i.e., (`(P (intracellular -> interstitial) liver periportal`, `(P (intracellular -> interstitial) liver pericentral` and (`(P (intracellular -> interstitial) kidney`) were optimized to avoid accumulation of drug in tissue and to capture observed PK profiles [Section 2.3.4](#model-parameters-and-assumptions-identification). 
 
 ### Metabolism and Elimination<a id="model-parameters-and-assumptions-metabolism"></a>
 
