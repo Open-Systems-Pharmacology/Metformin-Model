@@ -7,7 +7,7 @@ Within this repository, we share a whole-body PBPK model of metformin that has b
 This repository contains a PK-Sim snapshot file of the current PBPK model, which contains simulations and the observed data of all clinical studies used for model development and evaluation. 
 The present model represents an update of the metformin model presented by Hanke et al. [1]. The current model features the following updates to prevent drug accumulation in tissues and allow a better prediction of terminal elimination t1/2:
 - Partition coefficient calculation and cellular permeability calculation methods.
-- Updated permeability coefficients for mucosa, liver, kidney, and brain (P (intracellular -> interstitial)).
+- Updated permeabilities used for mucosa, liver, kidney, and brain (P (intracellular -> interstitial)).
 - The solubility in the distal colon and rectum was set to 0 mg/l to minimize absorption in the large intestine without causing accumulation of the drug inside the intracellular space of the mucosa.
    
 ### Version information
