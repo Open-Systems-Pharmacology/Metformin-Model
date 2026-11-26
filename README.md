@@ -7,7 +7,7 @@ Within this repository, we share a whole-body PBPK model of metformin that has b
 This repository contains a PK-Sim snapshot file of the current PBPK model, which contains simulations and the observed data of all clinical studies used for model development and evaluation. 
 The present model represents an update of the metformin model presented by Hanke et al. [1]. The current model features the following updates to allow
 capture of (i) late-phase pharmacokinetics following single and multiple oral dosing as well as intravenous administration, and (ii) metformin accumulation in red blood cells:
-- Switch of the OCT1 expression profile from Array to RT-PCR.
+- Updated expression profile for OCT1: Switch from Array to RT-PCR.
 - Updated permeabilities from intracellular to interstitial space of the small intestinal mucosa as well as cecum, colon ascendens, and colon transversum.
 - Updated permeabilities between plasma and blood cells.
    
