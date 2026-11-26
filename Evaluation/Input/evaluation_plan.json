@@ -409,6 +409,20 @@
                             },
                             {
                                 "Project": "Metformin",
+                                "Simulation": "po  850 mg, Sambol 1995, WholeBlood, n=6, tab, fast",
+                                "Output": "Organism|PeripheralVenousBlood|Metformin|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Sambol_1995, po, 662.9 mg, Plasma, n=6",
+                                "Color": "#6D6AE1"
+                            },
+                            {
+                                "Project": "Metformin",
+                                "Simulation": "po 1000 mg, Johansson 2014, n=14, tab, fast",
+                                "Output": "Organism|PeripheralVenousBlood|Metformin|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Johansson_2014, po 779.9 mg, Plasma, n=14",
+                                "Color": "#7F488A"
+                            },
+                            {
+                                "Project": "Metformin",
                                 "Simulation": "po 1700 mg, Sambol 1996a, n=9, tab, fast",
                                 "Output": "Organism|PeripheralVenousBlood|Metformin|Plasma (Peripheral Venous Blood)",
                                 "ObservedData": "Sambol_1996a, po 1325.8 mg, Plasma, n=9",
@@ -588,13 +602,6 @@
                             },
                             {
                                 "Project": "Metformin",
-                                "Simulation": "po  850 mg, Sambol 1995, WholeBlood, n=6, tab, fast",
-                                "Output": "Organism|PeripheralVenousBlood|Metformin|Plasma (Peripheral Venous Blood)",
-                                "ObservedData": "Sambol_1995, po, 662.9 mg, Plasma, n=6",
-                                "Color": "#6D6AE1"
-                            },
-                            {
-                                "Project": "Metformin",
                                 "Simulation": "po  850 mg, Sambol 1996a, n=9, tab, fast",
                                 "Output": "Organism|PeripheralVenousBlood|Metformin|Plasma (Peripheral Venous Blood)",
                                 "ObservedData": "Sambol_1996a, po 662.9 mg, Plasma, n=9",
@@ -606,13 +613,6 @@
                                 "Output": "Organism|PeripheralVenousBlood|Metformin|Plasma (Peripheral Venous Blood)",
                                 "ObservedData": "Gan_2016, po 779.9 mg qd, Plasma, n=27",
                                 "Color": "#B7E644"
-                            },
-                            {
-                                "Project": "Metformin",
-                                "Simulation": "po 1000 mg, Johansson 2014, n=14, tab, fast",
-                                "Output": "Organism|PeripheralVenousBlood|Metformin|Plasma (Peripheral Venous Blood)",
-                                "ObservedData": "Johansson_2014, po 779.9 mg, Plasma, n=14",
-                                "Color": "#7F488A"
                             },
                             {
                                 "Project": "Metformin",

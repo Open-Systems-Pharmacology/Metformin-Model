@@ -5,10 +5,12 @@ Whole-body PBPK model of metformin (OCT2/MATE DDI victim drug).
 Within this repository, we share a whole-body PBPK model of metformin that has been carefully developed using 39 clinical studies of intravenous or oral administration, covering a broad dosing range (0.001–2550 mg). 
 
 This repository contains a PK-Sim snapshot file of the current PBPK model, which contains simulations and the observed data of all clinical studies used for model development and evaluation. 
-The present model represents an update of the metformin model presented by Hanke et al. [1]. The current model features the following updates to prevent drug accumulation in tissues and allow a better prediction of terminal elimination t1/2:
-- Partition coefficient calculation and cellular permeability calculation methods.
-- Updated permeabilities used for mucosa, liver, kidney, and brain (P (intracellular -> interstitial)).
-- The solubility in the distal colon and rectum was set to 0 mg/l to minimize absorption in the large intestine without causing accumulation of the drug inside the intracellular space of the mucosa.
+
+The present model represents an update of the metformin model presented by Hanke et al. [1]. The current model features the following updates to allow
+capture of (i) late-phase pharmacokinetics following single and multiple oral dosing as well as intravenous administration, and (ii) metformin accumulation in red blood cells:
+- Updated expression profile for OCT1: Switch from Array to RT-PCR.
+- Updated permeabilities from intracellular to interstitial space of the small intestinal mucosa as well as cecum, colon ascendens, and colon transversum.
+- Updated permeabilities between plasma and blood cells.
    
 ### Version information
 PK-Sim Version 12.

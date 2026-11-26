@@ -66,6 +66,8 @@ Survey (NHANES III). Tech. rep., Hyattsville, MD 20782
 
 **Otsuka 2005** Otsuka M, Matsumoto T, Morimoto R, et al (2005) A human transporter protein that mediates the final excretion step for toxic organic cations. Proc Natl Acad Sci U S A 102:17923–17928. https://doi.org/10.1073/pnas.0506483102
 
+**Paleari 2018** Paleari L, Burhenne J, Weiss J, et al (2018) High accumulation of metformin in colonic tissue of subjects with diabetes or the metabolic syndrome. Gastroenterology 154:1543-1545. https://doi.org/10.1053/j.gastro.2017.12.040
+
 **Pentikäinen 1979** Pentikäinen PJ, Neuvonen PJ, Penttilä A (1979a) Pharmacokinetics of metformin after intravenous and oral administration to man. Eur J Clin Pharmacol 16:195–202. https://doi.org/10.1007/BF00562061
 
 **PK-Sim Ontogeny Database Version 7.3** PK-Sim Ontogeny Database Version 7.3 (https://github.com/Open-Systems-Pharmacology/OSPSuite.Documentation/blob/38cf71b384cfc25cfa0ce4d2f3addfd32757e13b/PK-Sim%20Ontogeny%20Database%20Version%207.3.pdf)
